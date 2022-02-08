@@ -1,10 +1,15 @@
 <p><img width=15% src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /> </p>
 
-### Hi there. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+#### I'm a Frontend Engineer working remote from Lohr am Main, Germany.
 
-Nice to Meet You. ☺️
+Nice to Meet You. 👋
 
+##### TRIVIA
 
+- 🏢 I'm currently working at **StudySmarter**
+- ⚙️ I use daily: `.ts`, `.html`, `.scss`, `.json`, `.yml`
+- 🌱 Dipping my toes into **Open Source Software** 
+- 📫 Reach me: [twitter.com/michaelxvoelker](https://twitter.com/michaelxvoelker) and [linkedin.com/michaelxvoelker](https://www.linkedin.com/in/michaelxvoelker/)
 
 <!--
 **michaelxvoelker/michaelxvoelker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ⚡️ Fun fact: I also speak russian.
+
 -->
