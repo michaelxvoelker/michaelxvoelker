@@ -6,8 +6,8 @@ Nice to Meet You. 👋
 
 ##### TRIVIA
 
-- 🏢 I'm currently working at **StudySmarter**
-- ⚙️ I use daily: `.ts`, `.html`, `.scss`, `.json`, `.yml`
+- 🏢 I'm currently working at **Celonis**
+- ⚙️ I use daily: `.ts`, `.html`, `.scss`, `.json`, `.yaml`
 - 🌱 Dipping my toes into **Open Source Software** 
 - 📫 Reach me: [twitter.com/michaelxvoelker](https://twitter.com/michaelxvoelker) and [linkedin.com/michaelxvoelker](https://www.linkedin.com/in/michaelxvoelker/)
 
