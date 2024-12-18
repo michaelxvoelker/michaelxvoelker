@@ -6,7 +6,7 @@ Nice to meet you. 👋
 
 ##### TRIVIA
 
-- 🏢 I'm currently working at **Celonis** on graph visualization tools
+- 🏢 I'm working at **Celonis** on graph visualization tools
 - 🌱 Dipping my toes into **Open Source Software** 
 - 📫 How to reach me: [linkedin.com/michaelxvoelker](https://www.linkedin.com/in/michaelxvoelker/)
 
