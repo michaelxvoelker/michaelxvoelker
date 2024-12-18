@@ -1,15 +1,14 @@
 <p><img width=15% src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /> </p>
 
-#### I'm a Frontend Engineer working remote from Lohr am Main, Germany.
+#### I'm a Software Engineer working remotely from Lohr am Main 🍇 in Germany. 
 
-Nice to Meet You. 👋
+Nice to meet you. 👋
 
 ##### TRIVIA
 
-- 🏢 I'm currently working at **Celonis**
-- ⚙️ I use daily: `.ts`, `.html`, `.scss`, `.json`, `.yaml`
+- 🏢 I'm currently working at **Celonis** on graph visualization tools
 - 🌱 Dipping my toes into **Open Source Software** 
-- 📫 Reach me: [twitter.com/michaelxvoelker](https://twitter.com/michaelxvoelker) and [linkedin.com/michaelxvoelker](https://www.linkedin.com/in/michaelxvoelker/)
+- 📫 How to reach me: [linkedin.com/michaelxvoelker](https://www.linkedin.com/in/michaelxvoelker/)
 
 <!--
 **michaelxvoelker/michaelxvoelker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,5 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ⚡️ Fun fact: I also speak russian.
-
 -->
